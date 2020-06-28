@@ -20,7 +20,6 @@ attack speed:2
 move speed:2.5 
 } 
 
-
 var outlaw-vampier = { 
 health:75 
 damage:27 
@@ -42,8 +41,6 @@ regenerate:1.7
 attack speed:2 
 move speed:1.8 
 } 
-
-
 
 var troll-warlord = { 
 health:75, 
@@ -89,3 +86,52 @@ regenerate: 2
 attack speed:1.5 
 move speed:2 
 }
+
+var outlaw-goblin = { 
+health:75 
+damage:27 
+regenerate:1.3 
+attack speed:1.6 
+move speed:2 
+} 
+
+var giant = { 
+health:120 
+damage:17.5 
+regenerate:1.5 
+attack speed:1 
+move speed:1.4 
+} 
+
+var ogre = { 
+health:75, 
+damage 30, 
+regenerate:1.1 
+attack speed:2 
+move speed:1.6 
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
